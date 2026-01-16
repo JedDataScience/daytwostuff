@@ -6,9 +6,9 @@ title: Day Two Stuff
 ## You will record your answers in the .py file, which will need to be pushed to your repo. You'll submit
 ## the repo link. 
 
-### Clone the Repo
+### FORK the Repo
 1. Go to Github and find the DayTwoStuff repo
-2. Clone it to your GitHub Account
+2. Fork it to your GitHub Account
 3. Create a new Codespace from the repo
 
 ### Open the Codespace in your local VS Code
