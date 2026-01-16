@@ -18,13 +18,16 @@ title: Day Two Stuff
 4. Open a new .py file and add the section breaks to create a interactive .py file
     hint: you made need to reload juypter extension and/or add the ipykernel package
 5. What is your terminal display "path"? (type/paste as text into the .py file) 
+The terminal display 'path' is /workspaces/daytwostuff
 
 ### Create a virtual environment
 1. open a bash terminal 
 2. type the command for creating a virtual environment
 3. make sure the environment is activated
 4. Should you include the environment in your repo or not?  
+You shouldnt include the environment in your repo because the requirments.txt file will tell the user which modules you need to install. 
 5. Now what is your terminal display "path"? Is it different? 
+The Terminal display "path" now has the venv in front indicating that the virtual environment is active 
 
 ### Load/(create if needed) the requirements.txt file
 1. use the correct terminal commands to load the requirements file into your virtual environment
@@ -37,7 +40,9 @@ title: Day Two Stuff
 ### Extension Management
 1. You've possibilly added a new extension, hopefully it was Data Wrangler, if not search and add it
 2. Find the extension in the extension menu. What do you notice about the extension menu? 
+The extension menu has multiple tabs one for local and the other for Virtual Codespace. 
 3. Review the capabilities, what are three useful elements of Data Wrangler
+3 useful elements of Data Wrangler are one click transformations, Automatic pandas code export, and Flash Fill. 
 
 ### Package managing
 1. Install plotly in the terminal
@@ -45,6 +50,7 @@ title: Day Two Stuff
 3. Add plotly to your requirements file using terminal commands
 4. Then update the requirements document
 5. Why do we use a requirements.txt file?
+We use the requirements.txt file so easily allow users to install on the dependencies and their versions really easily. They can use a simple terminal command. 
 
 ### Pip Freeze/(create if needed) the requirements.txt file
 1. use the correct terminal commands to update your requirements.txt file
